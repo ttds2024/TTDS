@@ -1,0 +1,6 @@
+@TTDS.WebAPI_HostAddress = http://localhost:5032
+
+GET {{TTDS.WebAPI_HostAddress}}/calculation/
+Accept: application/json
+
+###

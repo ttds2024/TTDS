@@ -1,0 +1,2 @@
+#define TTDSCUSTOMMATHPROJECT_API __declspec(dllexport)
+#define TTDSCUSTOMMATHPROJECT_API __declspec(dllimport)
